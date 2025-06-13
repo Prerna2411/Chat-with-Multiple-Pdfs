@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+chromadb
+faiss-cpu
+PyPdf2
+openai 
+langchain
+
