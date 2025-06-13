@@ -28,9 +28,13 @@ This project allows you to **chat with one or more PDF documents** using **Coher
 
 chat-with-multiple-pdfs/
 │
+
 ├── app.py # Main app logic
+
 ├── requirements.txt # Dependencies
+
 ├── .env # API key storage (ignored by git)
+
 └── README.md # Project documentation
 
 
